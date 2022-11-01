@@ -19,10 +19,10 @@
 
 <h2 align="left">📡 Socials</h2>
 <p align="left">
-<a href="https://fb.com/samuel-bonghanoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuel bonghanoy" height="30" width="40" /></a>
+<a href="https://fb.com/Sampeoplewantitall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuel bonghanoy" height="30" width="40" /></a>
 <a href="https://instagram.com/sampeoplewantitall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampeoplewantitall" height="30" width="40" /></a>
 <a href="https://twitter.com/notsambonghanoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_sam_bonghanoy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel bonghanoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-bonghanoy" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/samuel bonghanoy](https://www.linkedin.com/in/samuel-bonghanoy-55283a250/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-bonghanoy" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">💻 Languages and Tools</h2>
