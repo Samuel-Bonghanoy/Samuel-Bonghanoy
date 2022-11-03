@@ -8,7 +8,7 @@
 - 💡 I’m interested in <strong>Data Science, Full stack web development, UI/UX design, and Artificial Intelligence</strong>
 
 
-- 🌱 I’m currently learning <strong>Python, HTML5, CSS3, JavaScript, React, and C</strong>
+- 🌱 I’m currently learning <strong>Python, HTML5, CSS3, JavaScript, Tailwind, React, and C</strong>
 
 
 - 📫 How to reach me **samuelbonghanoy35@gmail.com**
