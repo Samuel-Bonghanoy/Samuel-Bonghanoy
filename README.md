@@ -1,53 +1,77 @@
 <h1 align="center">Hi 👋, I'm Samuel Bonghanoy</h1>
-<h3 align="center">1st year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h3>
+<h4 align="center">1st year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h4>
 
 
-<h2 align="left">📌 About Me</h2>
+<h3 align="center">📌 About Me</h3>
 
-
-- 💡 I’m interested in <strong>Data Science, Full stack web development, UI/UX design, and Artificial Intelligence</strong>
-
-
-- 🌱 I’m currently learning <strong>Python, HTML5, CSS3, JavaScript, Tailwind, React, and C</strong>
-
-
-- 📫 How to reach me **samuelbonghanoy35@gmail.com**
-
-
-- ⚡ Fun fact: I sprained my ankle trying to squat 320lbs
-
-
-<h2 align="left">📡 Socials</h2>
-<p align="left">
-<a href="https://fb.com/Sampeoplewantitall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuel bonghanoy" height="30" width="40" /></a>
-<a href="https://instagram.com/sampeoplewantitall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampeoplewantitall" height="30" width="40" /></a>
-<a href="https://twitter.com/notsambonghanoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_sam_bonghanoy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/samuel-bonghanoy-55283a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-bonghanoy" height="30" width="40" /></a>
+<p align="center">
+💡 I’m interested in <strong>Data Science, Full stack web development, UI/UX design, and Artificial Intelligence</strong>
+</p>
+<p align="center">
+🌱 I’m currently learning <strong>Python, Data Structures and Algorithms, Object Oriented Programming, JavaScript, Tailwind, React, Sass, and C</strong>
+ </p>
+<p align="center">
+📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
+</p>
+<p align="center">
+⚡ Fun fact: I once sprained my ankle trying to squat 320lbs
 </p>
 
-<h2 align="left">💻 Languages and Tools</h2>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-
+<h3 align="center">:mailbox_with_mail: Connect with me</h3>
+<p align="center">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samuel bonghanoy" height="30" width="100" /></a>
+<a href="https://instagram.com/sampeoplewantitall" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sampeoplewantitall" height="30" width="130" /></a>
+<a href="https://fb.com/Sampeoplewantitall" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="samuel bonghanoy" height="30" width="120" /></a>
+<a href="https://twitter.com/notsambonghanoy" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="not_sam_bonghanoy" height="30" width="100" /></a>
+<a href="https://www.linkedin.com/in/samuel-bonghanoy-55283a250" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samuel-bonghanoy" height="30" width="110" /></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
+<a href="https://open.spotify.com/user/samuleutan" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
+<a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samuel-bonghanoy" height="30" width="110" /></a>
+<a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="samuel-bonghanoy" height="30" width="90" /></a>
 </p>
 
-<h2 align="left">📈 Github Statistics</h2>
+<h3 align="center">:wrench: Tech Stack</h3>
+<h4 align="center">Languages, Frameworks, and Databases</h3>
+<p align="center">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="100" height="30"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="60" height="30"/> </a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="90" height="30"/> </a>  
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="30"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="130" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MySQL" width="100" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="MySQL" width="90" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="MySQL" width="150" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="90" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en" alt="samuel-bonghanoy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=tokyonight" alt="samuel-bonghanoy" /></p>
+<h4 align="center">Platforms and Tools</h3>
+<p align="center">
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="illustrator" width="210" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="MySQL" width="180" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="MySQL" width="140" height="30"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" width="180" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="illustrator" width="95" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="illustrator" width="110" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="figma" width="95" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="illustrator" width="170" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" width="180" height="30"/> </a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="70" height="30"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="95" height="30"/> </a>  
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="figma" width="180" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="figma" width="125" height="30"/> </a>
+</p>
+<h2 align="center">📈 Github Statistics</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
+<p align="center">&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=tokyonight" alt="samuel-bonghanoy" </p>
 
-<h3 align="left">   </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-bonghanoy&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-bonghanoy" /> </p>
+<!-- <p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=tokyonight" alt="samuel-bonghanoy" /></p> -->
+<!-- <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /> -->
+<p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
