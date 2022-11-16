@@ -9,7 +9,7 @@
 💡 I’m interested in <strong>Data Science, Full stack web development, UI/UX design, and Artificial Intelligence</strong>
 </p>
 <p align="center">
-🌱 I’m currently learning <strong>Python, Data Structures and Algorithms, Object Oriented Programming, JavaScript, Tailwind, React, Sass, and C</strong>
+🌱 I’m currently learning <strong>Python, Data Structures and Algorithms, Object Oriented Programming, JavaScript, Tailwind, React, Sass, node.js, mongodb, and C</strong>
  </p>
 <p align="center">
 📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
