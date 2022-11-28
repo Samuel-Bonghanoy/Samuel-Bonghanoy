@@ -74,3 +74,6 @@ I’m currently learning <strong>Python, Data Structures and Algorithms, Object 
 <!-- <p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=tokyonight" alt="samuel-bonghanoy" /></p> -->
 <!-- <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /> -->
 <p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
+
+<!-- <p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
+ -->
