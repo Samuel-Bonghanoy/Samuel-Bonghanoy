@@ -26,9 +26,9 @@ I’m currently learning <strong>Python, Data Structures and Algorithms, Object 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
 <a href="https://open.spotify.com/user/samuleutan" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
-<a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samuel-bonghanoy" height="30" width="110" /></a>
+<!-- <a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samuel-bonghanoy" height="30" width="110" /></a>
 <a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="samuel-bonghanoy" height="30" width="90" /></a>
-</p>
+</p> -->
 
 <h3 align="center">:wrench: Tech Stack</h3>
 <h4 align="center">Languages, Frameworks, and Databases</h3>
@@ -39,12 +39,12 @@ I’m currently learning <strong>Python, Data Structures and Algorithms, Object 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="30"/> </a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="130" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
+<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="MySQL" width="110" height="30"/> </a> -->
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MySQL" width="100" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="MySQL" width="90" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="MySQL" width="150" height="30"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="90" height="30"/> </a>
+<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="90" height="30"/> </a> -->
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
 </p>
 
@@ -54,18 +54,18 @@ I’m currently learning <strong>Python, Data Structures and Algorithms, Object 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="illustrator" width="210" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="MySQL" width="180" height="30"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="MySQL" width="140" height="30"/> </a>
+<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="MySQL" width="140" height="30"/> </a> -->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" width="180" height="30"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="illustrator" width="95" height="30"/> </a>
+<!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="illustrator" width="95" height="30"/> </a> -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="illustrator" width="110" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="figma" width="95" height="30"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="illustrator" width="170" height="30"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" width="180" height="30"/> </a> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
+<!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="illustrator" width="170" height="30"/> </a> -->
+<!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" width="180" height="30"/> </a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="MySQL" width="110" height="30"/> </a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="70" height="30"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="95" height="30"/> </a>  
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="figma" width="180" height="30"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="figma" width="125" height="30"/> </a>
+<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="figma" width="125" height="30"/> </a> -->
 </p>
 <h2 align="center">📈 Github Statistics</h2>
 
