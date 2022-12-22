@@ -21,7 +21,7 @@
 ⚡ Fun fact: I once sprained my ankle trying to squat 320lbs
 </p>
 
-<h3 align="left">:mailbox_with_mail: Connect with me</h3>
+<h2 align="left">:mailbox_with_mail: Connect with me</h2>
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samuel bonghanoy" height="30" width="100" /></a>
 <a href="https://instagram.com/sampeoplewantitall" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sampeoplewantitall" height="30" width="130" /></a>
@@ -35,7 +35,7 @@
 <a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="samuel-bonghanoy" height="30" width="90" /></a>
 </p> -->
 
-<h3 align="left">:wrench: Tech Stack</h3>
+<h2 align="left">:wrench: Tech Stack</h2>
 <h4 align="left">Languages, Frameworks, and Databases</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="100" height="30"/> </a> 
