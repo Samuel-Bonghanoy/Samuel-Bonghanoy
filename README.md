@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
+<h1 align="center">👋 Hi, I'm Sam, ~~but you can call me yours~~</h1>
 <p align="center"> <img align="center" src="gif.gif" alt="MySQL" width="600" height="50"/></p>
 <h4 align="center">1st year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h4>
 
