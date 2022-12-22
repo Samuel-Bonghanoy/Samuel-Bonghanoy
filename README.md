@@ -9,19 +9,19 @@
  I am a freshman Computer Science Student in the University of San Carlos. I prefer the pronouns he/his because ill never be HIM -----> https://www.youtube.com/watch?v=BYvhhMjW32k
 
 <p align="left">
-💡  Interests: <strong>Data Science, Full stack web development, and Machine Learning.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Data Science, Full stack web development, and Machine Learning.</strong>
  </p>
  <p align="left">
-🔍 Currently Learning: <strong>Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
  </p>
  <p align="left">
-✨ Hobbies: <strong>Basketball, Photography, Music, but mostly Anime.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Basketball, Photography, Music, but mostly Anime.</strong>
  </p>
 <p align="left">
-📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
  </p>
 <p align="left">
-⚡ Fun fact: I once sprained my ankle trying to squat 320lbs
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ⚡ Fun fact: I once sprained my ankle trying to squat 320lbs
 </p>
 
 <h2 align="left">:mailbox_with_mail: Connect with me</h2>
