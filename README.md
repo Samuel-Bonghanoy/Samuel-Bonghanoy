@@ -6,7 +6,7 @@
 <h3 align="left">📌 About Me</h3>
 
 <p align="left">
-I am a freshman BSCS student in the University of San Carlos. My interests include <strong>Data Science, Full stack web development, UI/UX design, and Artificial Intelligence.</strong>
+I am a freshman BSCS student in the University of San Carlos. My interests include <strong>Data Science, Full stack web development, and Machine Learning.</strong>
 I’m currently learning <strong>Python, Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
 
 <p align="left">
