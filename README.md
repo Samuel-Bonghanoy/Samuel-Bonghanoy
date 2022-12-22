@@ -3,21 +3,21 @@
 <h4 align="center">1st year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h4>
 
 
-<h3 align="center">📌 About Me</h3>
+<h3 align="left">📌 About Me</h3>
 
-<p align="center">
+<p align="left">
 I am a freshman BSCS student in the University of San Carlos. My interests include <strong>Data Science, Full stack web development, UI/UX design, and Artificial Intelligence.</strong>
 I’m currently learning <strong>Python, Data Structures and Algorithms, Object Oriented Programming, JavaScript, Tailwind, React, Sass, SQL, and C.</strong>
 
-<p align="center">
+<p align="left">
 📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
  </p>
-<p align="center">
+<p align="left">
 ⚡ Fun fact: I once sprained my ankle trying to squat 320lbs
 </p>
 
-<h3 align="center">:mailbox_with_mail: Connect with me</h3>
-<p align="center">
+<h3 align="left">:mailbox_with_mail: Connect with me</h3>
+<p align="left">
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samuel bonghanoy" height="30" width="100" /></a>
 <a href="https://instagram.com/sampeoplewantitall" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sampeoplewantitall" height="30" width="130" /></a>
 <a href="https://fb.com/Sampeoplewantitall" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="samuel bonghanoy" height="30" width="120" /></a>
@@ -30,9 +30,9 @@ I’m currently learning <strong>Python, Data Structures and Algorithms, Object 
 <a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="samuel-bonghanoy" height="30" width="90" /></a>
 </p> -->
 
-<h3 align="center">:wrench: Tech Stack</h3>
-<h4 align="center">Languages, Frameworks, and Databases</h3>
-<p align="center">
+<h3 align="left">:wrench: Tech Stack</h3>
+<h4 align="left">Languages, Frameworks, and Databases</h3>
+<p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="100" height="30"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="60" height="30"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="90" height="30"/> </a>  
@@ -49,8 +49,8 @@ I’m currently learning <strong>Python, Data Structures and Algorithms, Object 
 </p>
 
 
-<h4 align="center">Platforms and Tools</h3>
-<p align="center">
+<h4 align="left">Platforms and Tools</h3>
+<p align="left">
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="illustrator" width="210" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="MySQL" width="180" height="30"/> </a>
