@@ -14,6 +14,9 @@
  <p align="left">
 🔍 Currently Learning: <strong>Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
  </p>
+ <p align="left">
+✨ Hobbies: <strong>Basketball, Photography, Music, but mostly Anime.</strong>
+ </p>
 <p align="left">
 📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
  </p>
