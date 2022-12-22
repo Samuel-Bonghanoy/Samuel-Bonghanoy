@@ -3,12 +3,17 @@
 <h4 align="center">1st year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h4>
 
 
-<h3 align="left">📌 About Me</h3>
+<h2 align="left">📌 About Me</h2>
 
 <p align="left">
-I am a freshman BSCS student in the University of San Carlos. My interests include <strong>Data Science, Full stack web development, and Machine Learning.</strong>
-I’m currently learning <strong>Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
+ I am a freshman Computer Science Student in the University of San Carlos. I prefer the pronouns are he/his because ill never be Him- > https://www.youtube.com/watch?v=BYvhhMjW32k
 
+<p align="left">
+💡 Interests: <strong>Data Science, Full stack web development, and Machine Learning.</strong>
+ </p>
+ <p align="left">
+🔍 Currently Learning: <strong>Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
+ </p>
 <p align="left">
 📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
  </p>
