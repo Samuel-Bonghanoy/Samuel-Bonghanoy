@@ -7,7 +7,7 @@
 
 <p align="left">
 I am a freshman BSCS student in the University of San Carlos. My interests include <strong>Data Science, Full stack web development, and Machine Learning.</strong>
-I’m currently learning <strong>Python, Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
+I’m currently learning <strong>Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
 
 <p align="left">
 📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
