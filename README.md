@@ -6,7 +6,7 @@
 <h2 align="left">📌 About Me</h2>
 
 <p align="left">
- I am a freshman Computer Science Student in the University of San Carlos. I prefer the pronouns are he/his because ill never be HIM -----> https://www.youtube.com/watch?v=BYvhhMjW32k
+ I am a freshman Computer Science Student in the University of San Carlos. I prefer the pronouns he/his because ill never be HIM -----> https://www.youtube.com/watch?v=BYvhhMjW32k
 
 <p align="left">
 💡 Interests: <strong>Data Science, Full stack web development, and Machine Learning.</strong>
