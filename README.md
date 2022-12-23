@@ -9,7 +9,7 @@
  I am a freshman Computer Science Student in the University of San Carlos. I prefer the pronouns he/his because ill never be Him -----> https://www.youtube.com/watch?v=BYvhhMjW32k
 
 <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Data Science, Full stack web development, and Machine Learning.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Data Science, Full Stack Web Development, and Machine Learning.</strong>
  </p>
  <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
