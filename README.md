@@ -94,7 +94,7 @@
 
 <h2 align="center">📈 Github Statistics</h2>
 
-<p align="center">&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=samuel-bonghanoy&theme=radical&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=radical" alt="samuel-bonghanoy" </p>
+<p align="center">&nbsp;<img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuel-bonghanoy&theme=radical&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=radical" alt="samuel-bonghanoy" </p>
 
 <!-- <p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=tokyonight" alt="samuel-bonghanoy" /></p> -->
 <!-- <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /> -->
@@ -102,4 +102,4 @@
 
 <!-- <p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
  -->
-<p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=radical&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
+<p align="center"><img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=radical&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
