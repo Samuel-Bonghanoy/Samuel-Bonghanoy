@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, my name is Sam, <s>but you can call me later</s></h1>
 <p align="center"> <img align="center" src="gif.gif" alt="MySQL" width="600" height="50"/></p>
 <h4 align="center">1st year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h4>
+<h4 align="center">Currently averaging an estimated 22 WTFs/minute while coding</h4>
 
 
 <h2 align="left">📌 About Me</h2>
@@ -21,7 +22,7 @@
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
  </p>
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ⚡ Fun fact: I once sprained my ankle trying to squat 320lbs
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ⚡ Fun fact: I once sprained my ankle trying to squat 350lbs
 </p>
 
 <h2 align="left">:mailbox_with_mail: Connect with me</h2>
