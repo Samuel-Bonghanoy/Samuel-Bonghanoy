@@ -13,7 +13,7 @@
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Data Science, Full Stack Web Development, and Machine Learning.</strong>
  </p>
  <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>MERN stack, Data Structures and Algorithms, SQL, and C.</strong>
  </p>
  <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Basketball, Photography, Music, but mostly Anime.</strong>
@@ -51,11 +51,12 @@
 </p>
 <h4 align="left">Frameworks and Libraries</h4>
 <p align="left">
-<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="MySQL" width="110" height="30"/> </a> -->
+
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MySQL" width="100" height="30"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="MySQL" width="110" height="30"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="MySQL" width="90" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="MySQL" width="150" height="30"/> </a>
-<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="MySQL" width="140" height="30"/> </a> -->
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="MySQL" width="140" height="30"/> </a> 
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
 </p>
 <h4 align="left">Databases</h4>
@@ -88,9 +89,9 @@
 <p align="left">
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="MySQL" width=140" height="30"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="60" height="30"/> </a>  
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width=110" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MySQL" width=130" height="30"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MySQL" width="100" height="30"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="figma" width="85" height="30"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="figma" width="110" height="30"/> </a>
 </p>
 
 <h2 align="center">📈 Github Statistics</h2>
