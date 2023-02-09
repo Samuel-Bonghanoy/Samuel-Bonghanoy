@@ -77,13 +77,9 @@
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="MySQL" width=100" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="illustrator" width="110" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="figma" width="95" height="30"/> </a>
-<!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="illustrator" width="170" height="30"/> </a> -->
-<!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" width="180" height="30"/> </a> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="MySQL" width="140" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="MySQL" width="140" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="70" height="30"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="95" height="30"/> </a>  
-  
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="95" height="30"/> </a>   
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="figma" width="180" height="30"/> </a>
 <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="figma" width="125" height="30"/> </a> -->
 </p>
