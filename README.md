@@ -61,6 +61,10 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="MySQL" width="150" height="30"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="MySQL" width="140" height="30"/> </a> 
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="MySQL" width="90" height="30"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="MySQL" width="120" height="30"/> </a>
+  
 </p>
 <h4 align="left">Databases</h4>
 <p align="left">
