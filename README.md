@@ -90,7 +90,7 @@
 <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="figma" width="125" height="30"/> </a> -->
 </p>
 
-<h2 align="left">🌱 Currently Learning</h2>
+<!-- <h2 align="left">🌱 Currently Learning</h2>
 <p align="left">
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="MySQL" width=140" height="30"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="60" height="30"/> </a>  
@@ -98,11 +98,11 @@
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="MySQL" width="130" height="30"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MySQL" width="100" height="30"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="figma" width="110" height="30"/> </a>
-</p>
+</p> -->
 
 <h2 align="center">📈 Github Statistics</h2>
 
-<p align="center">&nbsp;<img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuel-bonghanoy&theme=radical&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=merko" alt="samuel-bonghanoy" </p>
+<p align="center">&nbsp;<img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuel-bonghanoy&theme=radical&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=radical" alt="samuel-bonghanoy" </p>
 
 <!-- <p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=tokyonight" alt="samuel-bonghanoy" /></p> -->
 <!-- <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /> -->
