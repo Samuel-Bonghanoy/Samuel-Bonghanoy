@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, my name is Sam, <s>but you can call me later</s></h1>
 <p align="center"> <img align="center" src="gif.gif" alt="MySQL" width="600" height="50"/></p>
-<h4 align="center">1st year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h4>
+<h4 align="center">2nd year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h4>
 <h4 align="center">Currently averaging an estimated 22 WTFs/minute while coding</h4>
 <h4 align="center">Looking for internship opportunities 👀</h4>
 
@@ -8,7 +8,7 @@
 <h2 align="left">📌 About Me</h2>
 
 <p align="left">
- I am a freshman Computer Science Student in the University of San Carlos. I prefer the pronouns he/his because ill never be Him -----> https://www.youtube.com/watch?v=BYvhhMjW32k
+ I am a sophomore Computer Science Student in the University of San Carlos. I prefer the pronouns he/his because ill never be Him -----> https://www.youtube.com/watch?v=BYvhhMjW32k
 
 <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Data Science, Full Stack Web Development, CI/CD, and Machine Learning.</strong>
