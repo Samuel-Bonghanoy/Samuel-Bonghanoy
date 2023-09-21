@@ -65,6 +65,7 @@
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="MySQL" width="90" height="30"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="MySQL" width="120" height="30"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
   
 </p>
 <h4 align="left">Databases</h4>
