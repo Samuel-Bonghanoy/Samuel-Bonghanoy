@@ -17,7 +17,7 @@
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>NextJS, Data Structures and Algorithms, GraphQL, Docker.</strong>
  </p>
  <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Basketball, Photography, Music, modding keyboards</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Basketball, Photography, Music, modding keyboards. </strong>
  </p>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
