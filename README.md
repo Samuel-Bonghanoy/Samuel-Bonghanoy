@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, my name is Sam, <s>but you can call me later</s></h1>
-<p align="center"> <img align="center" src="gif.gif" alt="MySQL" width="600" height="50"/></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=700&color=07F78C&vCenter=true&width=800&height=250&lines=Sophomore+BS-CS+Student;Aspiring+Full-stack+Web+developer;AI%2FML+enthusiast;Looking+for+internship+opportunities!)](https://git.io/typing-svg)
+<!-- <p align="center"> <img align="center" src="gif.gif" alt="MySQL" width="600" height="50"/></p> -->
 <!-- <h4 align="center">2nd year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h4>
 <h4 align="center">Currently averaging an estimated 22 WTFs/minute while coding</h4>
 <h4 align="center">Looking for internship opportunities 👀</h4> -->
