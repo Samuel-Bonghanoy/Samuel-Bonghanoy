@@ -7,17 +7,17 @@
 
 <h2 align="left">📌 About Me</h2>
 
-<p align="left">
- I am a sophomore Computer Science Student in the University of San Carlos. I prefer the pronouns he/his because ill never be Him -----> https://www.youtube.com/watch?v=BYvhhMjW32k
+
+<!--  I am a sophomore Computer Science Student in the University of San Carlos. I prefer the pronouns he/his because ill never be Him  https://www.youtube.com/watch?v=BYvhhMjW32k -->
 
 <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Data Science, Full Stack Web Development, CI/CD, and Machine Learning.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Full Stack Web Development, Data Science, CI/CD and DevOps.</strong>
  </p>
  <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>MERN stack, Data Structures and Algorithms, SQL, and C.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>NextJS, Data Structures and Algorithms, GraphQL, Docker.</strong>
  </p>
  <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Basketball, Photography, Music, but mostly Anime.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Basketball, Photography, Music, modding keyboards</strong>
  </p>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
@@ -50,8 +50,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="90" height="30"/> </a>  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="30"/> </a>
  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="css3" width="80" height="30"/> </a>
-</p>
-  <i>Yes, I know HTML and CSS aren't programming languages 😒</i>
+
 <h4 align="left">Frameworks and Libraries</h4>
 <p align="left">
 
