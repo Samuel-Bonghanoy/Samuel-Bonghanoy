@@ -53,26 +53,30 @@
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="90" height="30"/> </a>  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="30"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="MySQL" width="150" height="30"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="MySQL" width="135" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="MySQL" width="90" height="30"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="MySQL" width="140" height="30"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MySQL" width="100" height="30"/> </a>
-   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
   
   
   
 </p>
 <h4 align="left">Backend Technologies + Databases</h4>
 <p align="left">
-    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="MySQL" width="110" height="30"/> </a> 
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="MySQL" width="100" height="30"/> </a> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="MySQL" width="130" height="30"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="MySQL" width="90" height="30"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MySQL" width=130" height="30"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width=110" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="MySQL" width=140" height="30"/> </a>
-   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="MySQL" width=140" height="30"/> </a>
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="MySQL" width=120" height="30"/> </a>
+</p>
+
+<h4 align="left">Data Science and Analytics</h4>
+<p align="left">
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
 </p>
 
 <h4 align="left">Platforms and Tools</h4>
