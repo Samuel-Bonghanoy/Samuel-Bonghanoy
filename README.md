@@ -11,7 +11,7 @@
 <!--  I am a sophomore Computer Science Student in the University of San Carlos. I prefer the pronouns he/his because ill never be Him  https://www.youtube.com/watch?v=BYvhhMjW32k -->
 
 <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Full Stack Web Development, Data Science, CI/CD and DevOps.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Full Stack Web Development, Data Science, CI/CD and DevOps, but I like to dabble in photography and graphic design</strong>
  </p>
  <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>NextJS, Data Structures and Algorithms, GraphQL, Docker.</strong>
