@@ -57,6 +57,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="MySQL" width="180" height="30"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="MySQL" width="130" height="30"/> </a> 
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MySQL" width="80" height="30"/> </a> 
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="MySQL" width="100" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MySQL" width="100" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
   
