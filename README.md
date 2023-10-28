@@ -120,4 +120,4 @@
 
 <!-- <p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
  -->
-<p align="center"><img align="center"  width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&theme=aura&show_icons=true&langs_count=6&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
+<p align="center"><img align="center"  width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&theme=aura&show_icons=true&langs_count=8&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
