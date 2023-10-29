@@ -74,6 +74,8 @@
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width=100" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="MySQL" width=120" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="MySQL" width=120" height="30"/> </a>
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="MySQL" width=120" height="30"/> </a>
+   
 </p>
 
 <h4 align="left">Data Science and Analytics</h4>
