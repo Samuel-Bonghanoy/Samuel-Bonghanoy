@@ -14,7 +14,7 @@
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Full Stack Web Development, Data Science, CI/CD and DevOps, Photography, Graphic Design</strong>
  </p>
  <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>NextJS, Data Structures and Algorithms, GraphQL, Docker.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>NextJS, GraphQL, Docker.</strong>
  </p>
  <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Basketball, Photography, Music, Keyboard Modding. </strong>
