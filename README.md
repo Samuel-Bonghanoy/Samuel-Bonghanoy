@@ -82,7 +82,10 @@
 <h4 align="left">Data Science and Analytics</h4>
 <p align="left">
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="MySQL" width="120" height="30"/> </a>
 </p>
+
 
 <h4 align="left">Platforms and Tools</h4>
 <p align="left">
