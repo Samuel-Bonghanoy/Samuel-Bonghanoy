@@ -19,7 +19,7 @@
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ⚡ Fun fact: I once sprained my ankle trying to squat 350lbs
 </p> -->
 <a href="https://github.com/walidbosso">   
-<img align="right" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif" width="300">
+<img align="right" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif" width="330">
 </a>
 
 ### Learn more about me 🔍
