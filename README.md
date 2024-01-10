@@ -1,25 +1,10 @@
 <img src="top3.png"/>
 <p align="center"> <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=60&duration=4000&pause=700&color=15F7ED&center=true&vCenter=true&random=false&width=1600&height=100&lines=Hello+there!+I'm+Sam;A+Computer+Science+Student;Aspiring+Web+Developer;Anime+and+Photography+nerd+;Data+Science%2FML+enthusiast;and+I+really+hate+C" width="800" /></p> 
-<!-- <h2 align="left">📌 About Me</h2> -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;">
 
-<!-- <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡&nbsp; Interests: <strong>Full Stack Web Development, Data Science, CI/CD and DevOps, Photography, Graphic Design</strong>
- </p>
- <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>Data Science, GraphQL, Docker.</strong>
- </p>
- <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Basketball, Photography, Music, Keyboard Modding. </strong>
- </p>
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
- </p>
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ⚡ Fun fact: I once sprained my ankle trying to squat 350lbs
-</p> -->
 <a href="https://github.com/walidbosso">   
-<img align="right" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif" width="330">
+<img align="right" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif" width="310">
 </a>
 
 ### Learn more about me 🔍
