@@ -25,7 +25,7 @@
 ### Learn more about me 🔍
 
 - 👨‍💻 I’m currently learning `GraphQL`, `Docker`, and `Python for Data Science.`
-- 📚 I am a passionate photography hobbyist and lover of everything cinematic and theatrical
+- 📸 I am a passionate photography hobbyist and lover of everything cinematic and theatrical
 - 💪🏼 For 2024, I plan to dive deeper into `Data Science`, `Machine Learning`, and `CI/CD` 
 
 <h3 align="left">Connect with me 📫</h3>
@@ -66,6 +66,7 @@
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="MySQL" width="100" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="MySQL" width="90" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="MySQL" width="130" height="30"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="MySQL" width="80" height="30"/> </a>
