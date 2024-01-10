@@ -1,4 +1,4 @@
-<img src="top2.png"/>
+<img src="top3.png"/>
 <p align="center"> <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=60&duration=4000&pause=700&color=15F7ED&center=true&vCenter=true&random=false&width=1600&height=100&lines=Hello+there!+I'm+Sam;A+Computer+Science+Student;Aspiring+Web+Developer;Anime+and+Photography+nerd+;Data+Science%2FML+enthusiast;and+I+really+hate+C" width="800" /></p> 
 <!-- <h2 align="left">📌 About Me</h2> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;">
