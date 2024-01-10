@@ -112,7 +112,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;">
 <h3 align="center">📈 Github Statistics</h2>
 
-<p align="center">&nbsp;<img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuel-bonghanoy&theme=aura&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=aura" alt="samuel-bonghanoy" </p>
+<p align="center">&nbsp;<img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=tokyonight" alt="samuel-bonghanoy" </p>
 
 <!-- <p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-bonghanoy&theme=tokyonight" alt="samuel-bonghanoy" /></p> -->
 <!-- <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /> -->
@@ -120,4 +120,4 @@
 
 <!-- <p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
  -->
-<p align="center"><img align="center"  width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&theme=aura&show_icons=true&langs_count=8&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
+<p align="center"><img align="center"  width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&theme=tokyonight&show_icons=true&langs_count=8&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
