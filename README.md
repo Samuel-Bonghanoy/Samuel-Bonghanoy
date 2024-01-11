@@ -19,8 +19,8 @@
 <a href="https://fb.com/Sampeoplewantitall" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="samuel bonghanoy" height="30" width="120" /></a>
 <a href="https://twitter.com/notsambonghanoy" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="not_sam_bonghanoy" height="30" width="100" /></a>
 <a href="https://www.linkedin.com/in/samuel-bonghanoy-55283a250" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samuel-bonghanoy" height="30" width="110" /></a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
-<a href="https://open.spotify.com/user/samuleutan" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
+<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
+<a href="https://open.spotify.com/user/samuleutan" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="MySQL" width="110" height="30"/> </a> -->
 <!-- <a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samuel-bonghanoy" height="30" width="110" /></a>
 <a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="samuel-bonghanoy" height="30" width="90" /></a>
 </p> -->
