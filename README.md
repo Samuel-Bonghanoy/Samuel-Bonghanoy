@@ -35,7 +35,7 @@
 
 <h3 ><font size="32px">👨‍💻 Technologies I'm Currently Learning</font></h2>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="53" height="53" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icohn" width="53" height="53" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="53" height="53" /></div>
 
 <h3 align="left">🕸️ Web Development</h4>
 <p align="left">
