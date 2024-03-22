@@ -9,7 +9,7 @@
 
 ### Learn more about me 🔍
 
-- 👨‍💻 I’m currently learning `GraphQL`, `Docker`, and `Python for Data Science`
+- 👨‍💻 I’m currently learning `GraphQL`, `Docker`, and `Python for Data Science.`
 - 📸 I am a passionate photography hobbyist and lover of everything cinematic and theatrical.
 - 💪🏼 For 2024, I plan to dive deeper into `Data Science`, `Machine Learning`, and `CI/CD.`
 
