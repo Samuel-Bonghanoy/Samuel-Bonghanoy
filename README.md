@@ -11,7 +11,7 @@
 
 - 👨‍💻 I’m currently learning `NGINX`, `Docker`, and `AWS.`
 - 📸 I am a passionate photography hobbyist and lover of everything cinematic and theatrical.
-- 💪🏼 For 2024, I plan to dive deeper into `Cloud Services` and `CI/CD.`
+- 💪🏼 For 2024, I plan to dive deeper into `Cloud Services`, `NuxtJS`, and `CI/CD.`
 
 <h3 align="left">Connect with me 📫</h3>
 <p align="left">
