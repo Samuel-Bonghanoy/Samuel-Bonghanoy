@@ -9,7 +9,7 @@
 
 ### Learn more about me 🔍
 
-- 👨‍💻 I’m currently learning `NGINX`, `Docker`, and `AWS`
+- 👨‍💻 I’m currently learning `NGINX`, `Docker`, and `Cloudflare`
 - 📸 I am a passionate photography hobbyist and lover of everything cinematic and theatrical.
 - 💪🏼 For 2024, I plan to dive deeper into `Cloud Services`, `NuxtJS`, and `CI/CD`
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://instagram.com/sampeoplewantitall" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sampeoplewantitall" height="30" width="130" /></a>
 <a href="https://fb.com/Sampeoplewantitall" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="samuel bonghanoy" height="30" width="120" /></a>
-<a href="https://twitter.com/notsambonghanoy" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="not_sam_bonghanoy" height="30" width="100" /></a>
 <a href="https://www.linkedin.com/in/samuel-bonghanoy-55283a250" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samuel-bonghanoy" height="30" width="110" /></a>
 <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
 <a href="https://open.spotify.com/user/samuleutan" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="MySQL" width="110" height="30"/> </a> -->
@@ -30,24 +29,15 @@
 
 <h3 ><font size="32px">:wrench: My Favorite Technologies</font></h2>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="53" height="53" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /></div>
 
-
-<h3 ><font size="32px">👨‍💻 Technologies I'm Currently Learning</font></h2>
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icohn" width="53" height="53" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="53" height="53" /></div>
 
 <h3 align="left">🕸️ Web Development</h4>
 <p align="left">
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="60" height="30"/> </a>  
-<!--    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c" width="50" height="30"/> </a>   -->
-<!--  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="css3" width="80" height="30"/> </a> -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="90" height="30"/> </a>  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="30"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="html5" width="90" height="30"/> </a>  
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="MySQL" width="140" height="30"/> </a>
-<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="MySQL" width="180" height="30"/> </a> -->
-<!--  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="MySQL" width="130" height="30"/> </a>  -->
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MySQL" width="80" height="30"/> </a> 
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="MySQL" width="100" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="MySQL" width="90" height="30"/> </a>
@@ -61,28 +51,15 @@
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="MySQL" width=120" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="MySQL" width=120" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="MySQL" width=120" height="30"/> </a>
-   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="MySQL" width=180" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="MySQL" width=100" height="30"/> </a>
   
  
 <!--    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="MySQL" width=90" height="30"/> </a> -->
-     
-
-
-
-<h3 align="left">📊 Data Science</h4>
-<p align="left">
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
-   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="MySQL" width="120" height="30"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="MySQL" width="110" height="30"/> </a>
-</p>
-
-
 
 <h3 align="left">💡Other Platforms and Tools</h4>
 <p align="left">
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="MySQL" width="120" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="illustrator" width="110" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" alt="illustrator" width="110" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="illustrator" width="110" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" alt="MySQL" width="130" height="30"/> </a>
