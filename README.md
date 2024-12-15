@@ -23,7 +23,7 @@
 <!-- <a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samuel-bonghanoy" height="30" width="110" /></a>
 <a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="samuel-bonghanoy" height="30" width="90" /></a>
 </p> -->
-<p>Or check out my portfolio website: https://portfolio-samuel-bonghanoy.vercel.app/ </p>
+<p>Or check out my portfolio website: <a href="https://sethonne.dev">https://sethonne.dev</a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;">
 
