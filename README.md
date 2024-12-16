@@ -9,7 +9,7 @@
 
 ### Learn more about me 🔍
 
-- 👨‍💻 I’m currently learning `Kubernetes` and `Cloudflare.`
+- 👨‍💻 I’m currently learning `Kubernetes` and `Cloudflare`
 - 📸 I am a passionate photography hobbyist and lover of everything cinematic and theatrical.
 - 💪🏼 For 2024, I plan to dive deeper into `Cloud Services`, `NuxtJS`, and `CI/CD`
 
