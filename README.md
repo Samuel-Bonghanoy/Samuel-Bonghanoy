@@ -1,5 +1,5 @@
 <img src="top3.png"/>
-<p align="center"> <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=60&duration=4000&pause=700&color=15F7ED&center=true&vCenter=true&random=false&width=1600&height=100&lines=Hello+there!+I'm+Sam;A+Computer+Science+Student;Aspiring+Web+Developer;Anime+and+Photography+nerd+;Data+Science%2FML+enthusiast;and+I+really+hate+C" width="800" /></p> 
+<p align="center"> <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=60&duration=4000&pause=700&color=15F7ED&center=true&vCenter=true&random=false&width=1600&height=100&lines=信じられないほど疲れています;dont+google+that+sentence;it+just+said+i+love+kittens;im+sam+btw,+hi+;i+take+pictures;and+code+too+i+guess" width="800" /></p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;">
 
@@ -9,9 +9,9 @@
 
 ### Learn more about me 🔍
 
-- 👨‍💻 I’m currently learning `Kubernetes` and `Cloudflare`
+- 👨‍💻 I’m currently learning `Coolify` and `Self-hosting`
 - 📸 I am a passionate photography hobbyist and lover of everything cinematic and theatrical.
-- 💪🏼 For 2024, I plan to dive deeper into `Cloud Services`, `NuxtJS`, and `CI/CD`
+- 💪🏼 For 2025, I plan to dive deeper into `Cloud Services`, `DevOps`
 
 <h3 align="left">Connect with me 📫</h3>
 <p align="left">
