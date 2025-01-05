@@ -55,7 +55,8 @@ Feel free to reach out: sethonne.dev@gmail.com
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="illustrator" width="110" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" alt="illustrator" width="110" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" alt="MySQL" width="130" height="30"/> </a>
-<a href="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="illustrator" width="135" height="30"/> </a>
+<!-- <a href="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="illustrator" width="135" height="30"/> </a> -->
+<a href="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="illustrator" width="135" height="30"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="MySQL" width=110" height="30"/> </a>
 <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="figma" width="95" height="30"/> </a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="70" height="30"/> </a> 
@@ -64,6 +65,6 @@ Feel free to reach out: sethonne.dev@gmail.com
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="figma" width="180" height="30"/> </a>
 </p>
 <hr/>
-<p align="center" width="100%"><img height="300" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuel-bonghanoy&theme=tokyonight&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img height="300"  width="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&theme=tokyonight&show_icons=true&langs_count=6&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
+<p align="center" width="100%"><img height="300" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuel-bonghanoy&theme=radical&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img height="300"  width="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=samuel-bonghanoy&show_icons=true&theme=radical&show_icons=true&langs_count=6&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
 
 
