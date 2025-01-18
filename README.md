@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently learning `Coolify` and `Self-hosting`
 - 📸 I am a passionate photography hobbyist and lover of everything cinematic and theatrical.
-- 💪🏼 For 2025, I plan to dive deeper into `Cloud Services`, `DevOps`
+- 💪🏼 For 2025, I plan to dive deeper into `Cloud Services` and `DevOps`
 
 Feel free to reach out: sethonne.dev@gmail.com
 
